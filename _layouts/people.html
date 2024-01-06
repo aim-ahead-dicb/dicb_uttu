@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<div class="row flex-grow-1 w-100">
+    <main aria-label="Main Content" class="col-12 col-lg-12 col-xl-12 px-md-4">
+        <h2 id="Research Team" style="font-size: smaller;">Research Team Member(s):</h2>
+    <div class="row">
+      {% for person in site.data.people %}
+      <div class="col-lg-3 col-md-6 col-sm-12 mb-4">
+        <div class="card h-100">
+            <img src="{{ 'http://localhost:4000' | append: person.image }}" class="card-img-top img-fluid" alt="{{ person.name }}" />
+            <div class="card-body">
+              <h5 class="card-title" style="font-size: smaller;">
+                <a href="{{ person.link }}">{{ person.name }}</a>
+              </h5>
+              <p class="card-text" style="font-size: smaller;">{{ person.role }}</p>
+              <p class="card-text" style="font-size: smaller;">{{ person.university }}</p>
+              <p class="card-text" style="font-size: smaller;"><a href="mailto:{{ person.email }}">{{ person.email }}</a></p>
+            </div>
+          </div>
+        </div>
+        {% cycle '', '', '', '</div><div class="row">' %} <!-- This line will ensure that after every 4th card, a new row is started -->
+      {% endfor %}
+    </div>
+  </main>
+</div>
