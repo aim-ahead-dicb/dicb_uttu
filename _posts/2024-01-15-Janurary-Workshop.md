@@ -7,14 +7,8 @@ tags: [workshop]
 pin: true
 ---
 
-
-
-**Title:** "Data Governance in Healthcare: Ethical and Computational Perspectives"
-
-**Theme:** "Exploring the intersection of data governance, AI/ML, and health equity"
-
-
-## Workshop Schedule
+## Title: "Data Governance in Healthcare: Ethical and Computational Perspectives"
+* Theme: "Exploring the intersection of data governance, AI/ML, and health equity"
 
 ### Day 1 (1/17)
 
