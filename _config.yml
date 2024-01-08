@@ -114,7 +114,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "https://aim-ahead-dicb.github.io/dicb_uttu/"
+baseurl: "https://aim-ahead-dicb.github.io/"
 
 # ------------ The following options are not recommended to be modified ------------------
 
