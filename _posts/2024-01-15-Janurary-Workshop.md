@@ -32,6 +32,7 @@ pin: true
 * What are the main ethical challenges in AI/ML for healthcare?
 * How can we ensure fairness and equity in AI/ML applications in healthcare?
 * What are some best practices for addressing ethical considerations in AI/ML for healthcare?
+
 #### 4:00 - 5:00: Meeting with MSBMI Faculty to Discuss Joint Interests
 
 #### 6:30: Networking Dinner at Aga's Restaurant and Catering (20 people)
