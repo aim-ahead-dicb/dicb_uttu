@@ -9,6 +9,7 @@ pin: true
 
 ## Title: "Data Governance in Healthcare: Ethical and Computational Perspectives"
 * Theme: "Exploring the intersection of data governance, AI/ML, and health equity"
+* Location: Rio Grande Conference room, RM E630, 7000 Fannin St., Houston, TX 77030
 
 ### Day 1 (1/17)
 
