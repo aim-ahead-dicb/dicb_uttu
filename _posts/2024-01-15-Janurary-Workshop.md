@@ -1,6 +1,6 @@
 ---
 title: Joint Workshop
-author:  Xiaoqian Jiang
+author:  xj
 date: 2023-01-05 20:55:00 +0800
 categories: [Meeting, Collaboration]
 tags: [workshop]
@@ -43,8 +43,8 @@ pin: true
     
 ### Day 2 (1/18)
 
-#### 9:00 - 10:00: Discussion on 4+1 Joint Program with Dean Fenton - Dean Prakash 
-* This session will focus on the potential collaboration between our institution and the 4+1 Joint Program. Dean Fenton, Dr. Honghe Wang, and Dr. Chitra Nayak will lead the discussion, exploring the benefits and challenges of such a partnership.
+#### 9:00 - 10:00: Discussion on 4+1 Joint Program with Dr. Fenton - Dr. Prakash 
+* This session will focus on the potential collaboration between our institution and the 4+1 Joint Program. Dr. Fenton, Dr. Prakash, Dr. Honghe Wang, and Dr. Chitra Nayak will lead the discussion, exploring the benefits and challenges of such a partnership.
 * Note: This time is not determined and might need to be changed.
 
 #### 10:00 - 11:00: AI Fairness with Industry and Leaders - Dr. Xiaoqian Jiang
