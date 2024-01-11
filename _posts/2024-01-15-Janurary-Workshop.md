@@ -13,7 +13,7 @@ pin: true
 
 ### Day 1 (1/17)
 
-#### 9:00 - 9:15: Opening Remarks - Dean Prakash 
+#### 9:00 - 9:15: Opening Remarks - Dean Prakash and Dean Zhang
 #### 9:15 - 9:30: Workshop Introduction - Dr. Xiaoqian Jiang
 #### 9:30 - 10:00: Introduction to Data Governance in Healthcare - Dr. Xiao Chang, Dr. Chitra Nayak
 #### 10:00 - 10:30: Joint DICB Session with Dr. Kakadiaris for Synergy - Dr. Kakadiaris will present his plan on data linkage, harmonization, and curation.
@@ -23,8 +23,6 @@ pin: true
 #### 11:45 - 12:00: Q&A Session: Computational Biology and Genomics in AI/ML Research - Panel includes Dr. Sodeke, Dr. Carter, Dr. Arif Harmanci, Dr. Han Chen, and interested MSBMI faculty
 
 #### 12:00 - 1:00: Lunch Break
-
-#### 12:45 - 1:00: Greetings from UTHealth and introduction of MSBMI - Dean Zhang
 
 #### 1:00 - 1:30: Session Part 1: Introduction to Bioethics in Data Governance - Theme: "Understanding the Ethical Implications of Data Governance" - Dr. Stephen Sodeke
 #### 1:30 - 1:45: Q&A Session: Introduction to Bioethics in Data Governance - Theme: "Discussing the Ethical Implications of Data Governance" - Panel includes Dr. Sodeke, Dr. Carter, Dr. Arif Harmanci, Dr. Han Chen, and interested MSBMI faculty
