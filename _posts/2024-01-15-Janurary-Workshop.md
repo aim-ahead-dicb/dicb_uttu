@@ -56,3 +56,7 @@ pin: true
 * Presentation on computation/ML capability - Dr. Jim Zheng
 * This session will also include discussions on the role of RCMI and potential implications of a second major genomics grant. Dr. Deepa Bedi, who is leading data creation and analysis at TU, will provide insights.
 * Note: This time is not determined and might need to be changed.
+
+## Workshop flyer
+
+<img src="{{ site.url | append: site.baseurl | append: '/assets/img/workshop_flyer.png' }}" class="card-img-top img-fluid" alt="Workshop flyer" />
