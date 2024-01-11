@@ -51,7 +51,7 @@ pin: true
 * In this session, Dr. Xiaoqian Jiang will lead a discussion on AI fairness. The discussion will involve industry leaders and will focus on the importance of fairness in AI, the current state of fairness in AI, and what steps can be taken to improve fairness in AI.
 * Note: This time is not determined and might need to be changed.
 
-#### 11:00 - 12:00: Roundtable: Data Access and Computation/ML Capability - Dr. Osman Yardimci, Dr. Sodeke, Dr. Deepa Bedi, Dr. Jim Zheng
+#### 11:00 - 12:00: Roundtable: Data Access and Computation/ML Capability - Dr. Osman Yardimci, Dr. Deepa Bedi, Dr. Jim Zheng
 * Discussion on data accessibility and sharing policy - Dr. Deepa Bedi
 * Presentation on computation/ML capability - Dr. Jim Zheng
 * This session will also include discussions on the role of RCMI and potential implications of a second major genomics grant. Dr. Deepa Bedi, who is leading data creation and analysis at TU, will provide insights.
