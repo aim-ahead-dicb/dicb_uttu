@@ -13,7 +13,8 @@ pin: true
 
 
 <details>
-<summary style="background-color: #f9f9f9; font-weight: bold; color: #333;">Zoom Meeting Link</summary>
+<summary style="background-color: #000000; font-weight: bold; color: #FFFFFF; font-size: 2em;">Zoom Meeting Link</summary>
+
 <div style="margin-left: 20px;">
 
 <strong>Topic:</strong> AIM-AHEAD DICB UTTU<br>
