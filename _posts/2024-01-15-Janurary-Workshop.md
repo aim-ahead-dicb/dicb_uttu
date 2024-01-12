@@ -11,81 +11,83 @@ pin: true
 * Theme: "Exploring the intersection of data governance, AI/ML, and health equity"
 * Location: Rio Grande Conference room, RM E630, 7000 Fannin St., Houston, TX 77030
 
+
 <details>
-<summary>Zoom Meeting Link</summary>
+<summary style="background-color: #f9f9f9; font-weight: bold; color: #333;">Zoom Meeting Link</summary>
+<div style="margin-left: 20px;">
 
+<strong>Topic:</strong> AIM-AHEAD DICB UTTU<br>
+<strong>Time:</strong> Jan 17, 2024 08:30 AM Central Time (US and Canada)<br>
+&emsp;&emsp;&emsp;&emsp;Every day, until Jan 18, 2024, 2 occurrence(s)<br>
+&emsp;&emsp;&emsp;&emsp;Jan 17, 2024 08:30 AM<br>
+&emsp;&emsp;&emsp;&emsp;Jan 18, 2024 08:30 AM<br>
 
-Topic: AIM-AHEAD DICB UTTU
-Time: Jan 17, 2024 08:30 AM Central Time (US and Canada)
-        Every day, until Jan 18, 2024, 2 occurrence(s)
-        Jan 17, 2024 08:30 AM
-        Jan 18, 2024 08:30 AM
+<strong>Join Zoom Meeting</strong><br>
+<a href="https://uthealth.zoom.us/j/98256802192?pwd=TjRlWFVYNXpMZXRXM2dhYjdkWXVHQT09">https://uthealth.zoom.us/j/98256802192?pwd=TjRlWFVYNXpMZXRXM2dhYjdkWXVHQT09</a><br>
 
-Join Zoom Meeting
-[https://uthealth.zoom.us/j/98256802192?pwd=TjRlWFVYNXpMZXRXM2dhYjdkWXVHQT09](https://uthealth.zoom.us/j/98256802192?pwd=TjRlWFVYNXpMZXRXM2dhYjdkWXVHQT09)
+<strong>Meeting ID:</strong> 982 5680 2192<br>
+<strong>Passcode:</strong> 094498<br>
 
-Meeting ID: 982 5680 2192
-Passcode: 094498
+<hr>
 
----
+<strong>One tap mobile</strong><br>
++13462487799,,98256802192#,,,,*094498# US (Houston)<br>
++14086380968,,98256802192#,,,,*094498# US (San Jose)<br>
 
-One tap mobile
-+13462487799,,98256802192#,,,,*094498# US (Houston)
-+14086380968,,98256802192#,,,,*094498# US (San Jose)
+<hr>
 
----
+<strong>Dial by your location</strong><br>
+• +1 346 248 7799 US (Houston)<br>
+• +1 408 638 0968 US (San Jose)<br>
+• +1 669 444 9171 US<br>
+• +1 669 900 6833 US (San Jose)<br>
+• +1 719 359 4580 US<br>
+• +1 253 205 0468 US<br>
+• +1 253 215 8782 US (Tacoma)<br>
+• +1 305 224 1968 US<br>
+• +1 309 205 3325 US<br>
+• +1 312 626 6799 US (Chicago)<br>
+• +1 360 209 5623 US<br>
+• +1 386 347 5053 US<br>
+• +1 507 473 4847 US<br>
+• +1 564 217 2000 US<br>
+• +1 646 876 9923 US (New York)<br>
+• +1 646 931 3860 US<br>
+• +1 689 278 1000 US<br>
+• +1 301 715 8592 US (Washington DC)<br>
 
-Dial by your location
-• +1 346 248 7799 US (Houston)
-• +1 408 638 0968 US (San Jose)
-• +1 669 444 9171 US
-• +1 669 900 6833 US (San Jose)
-• +1 719 359 4580 US
-• +1 253 205 0468 US
-• +1 253 215 8782 US (Tacoma)
-• +1 305 224 1968 US
-• +1 309 205 3325 US
-• +1 312 626 6799 US (Chicago)
-• +1 360 209 5623 US
-• +1 386 347 5053 US
-• +1 507 473 4847 US
-• +1 564 217 2000 US
-• +1 646 876 9923 US (New York)
-• +1 646 931 3860 US
-• +1 689 278 1000 US
-• +1 301 715 8592 US (Washington DC)
+<strong>Meeting ID:</strong> 982 5680 2192<br>
+<strong>Passcode:</strong> 094498<br>
 
-Meeting ID: 982 5680 2192
-Passcode: 094498
+<strong>Find your local number:</strong> <a href="https://uthealth.zoom.us/u/adwaPmynsO">https://uthealth.zoom.us/u/adwaPmynsO</a><br>
 
-Find your local number: [https://uthealth.zoom.us/u/adwaPmynsO](https://uthealth.zoom.us/u/adwaPmynsO)
+<hr>
 
----
+<strong>Join by SIP</strong><br>
+• 98256802192@zoomcrc.com<br>
 
-Join by SIP
-• 98256802192@zoomcrc.com
+<hr>
 
----
+<strong>Join by H.323</strong><br>
+• 162.255.37.11 (US West)<br>
+• 162.255.36.11 (US East)<br>
+• 115.114.131.7 (India Mumbai)<br>
+• 115.114.115.7 (India Hyderabad)<br>
+• 213.19.144.110 (Amsterdam Netherlands)<br>
+• 213.244.140.110 (Germany)<br>
+• 103.122.166.55 (Australia Sydney)<br>
+• 103.122.167.55 (Australia Melbourne)<br>
+• 209.9.211.110 (Hong Kong SAR)<br>
+• 64.211.144.160 (Brazil)<br>
+• 69.174.57.160 (Canada Toronto)<br>
+• 65.39.152.160 (Canada Vancouver)<br>
+• 207.226.132.110 (Japan Tokyo)<br>
+• 149.137.24.110 (Japan Osaka)<br>
 
-Join by H.323
-• 162.255.37.11 (US West)
-• 162.255.36.11 (US East)
-• 115.114.131.7 (India Mumbai)
-• 115.114.115.7 (India Hyderabad)
-• 213.19.144.110 (Amsterdam Netherlands)
-• 213.244.140.110 (Germany)
-• 103.122.166.55 (Australia Sydney)
-• 103.122.167.55 (Australia Melbourne)
-• 209.9.211.110 (Hong Kong SAR)
-• 64.211.144.160 (Brazil)
-• 69.174.57.160 (Canada Toronto)
-• 65.39.152.160 (Canada Vancouver)
-• 207.226.132.110 (Japan Tokyo)
-• 149.137.24.110 (Japan Osaka)
+<strong>Meeting ID:</strong> 982 5680 2192<br>
+<strong>Passcode:</strong> 094498<br>
 
-Meeting ID: 982 5680 2192
-Passcode: 094498
-
+</div>
 </details>
 
 
