@@ -1,14 +1,14 @@
-- name: Dr. Cheryl Brown
-  title: Associate Professor
-  university: University of North Carolina at Charlotte
-  image: /assets/img/people/CB.jpeg
-  link: https://pages.charlotte.edu/cheryl-brown/
-- name: Dr. Felesia Stukes
-  title: Assistant Professor
-  university: Johnson C. Smith University
-  image: /assets/img/people/FS.jpeg
-  link: https://blackcomputeher.org/felesia-stukes/
-# ... more people
+# - name: Dr. Cheryl Brown
+#   title: Associate Professor
+#   university: University of North Carolina at Charlotte
+#   image: /assets/img/people/CB.jpeg
+#   link: https://pages.charlotte.edu/cheryl-brown/
+# - name: Dr. Felesia Stukes
+#   title: Assistant Professor
+#   university: Johnson C. Smith University
+#   image: /assets/img/people/FS.jpeg
+#   link: https://blackcomputeher.org/felesia-stukes/
+# # ... more people
 
 
 - name: Dr. Channapatna Prakash
