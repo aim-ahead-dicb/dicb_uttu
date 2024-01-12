@@ -1,87 +1,87 @@
-# # - name: Dr. Cheryl Brown
-# #   title: Associate Professor
-# #   university: University of North Carolina at Charlotte
-# #   image: /assets/img/people/CB.jpeg
-# #   link: https://pages.charlotte.edu/cheryl-brown/
-# # - name: Dr. Felesia Stukes
-# #   title: Assistant Professor
-# #   university: Johnson C. Smith University
-# #   image: /assets/img/people/FS.jpeg
-# #   link: https://blackcomputeher.org/felesia-stukes/
-# # # ... more people
+# - name: Dr. Cheryl Brown
+#   title: Associate Professor
+#   university: University of North Carolina at Charlotte
+#   image: /assets/img/people/CB.jpeg
+#   link: https://pages.charlotte.edu/cheryl-brown/
+# - name: Dr. Felesia Stukes
+#   title: Assistant Professor
+#   university: Johnson C. Smith University
+#   image: /assets/img/people/FS.jpeg
+#   link: https://blackcomputeher.org/felesia-stukes/
+# # ... more people
 
-# - name: Dr. Channapatna Prakash
-#   role: Project Development Lead
-#   university: Tuskegee University
-#   image: /assets/img/headshot/Prakash.jpg
-#   email: cprakash@tuskegee.edu
-# - name: Dr. Xiaoqian Jiang
-#   role: Project Development Lead
-#   university: UTHealth
-#   image: /assets/img/headshot/Xiaoqian.jpg
-#   email: xiaoqian.jiang@uth.tmc.edu
-# - name: Dr. Xiao Chang
-#   role: Research Lead
-#   university: Tuskegee University
-#   image: /assets/img/headshot/XiaoChang.jpg
-#   email: xchang@tuskegee.edu
-# - name: Dr. Chitra Nayak
-#   role: Data Analysis Lead
-#   university: Tuskegee University
-#   image: /assets/img/headshot/NayakChitra.jpg
-#   email: cnayak@tuskegee.edu
-# - name: Dr. Honghe Wang
-#   role: Content Develop Lead
-#   university: Tuskegee University
-#   image: /assets/img/headshot/HongheWang.jpg
-#   email: hwang@tuskegee.edu
-# - name: Dr. Arif Harmanci
-#   role: Seminar Content Lead
-#   university: UTHealth
-#   image: /assets/img/favicons/wildcard_icon.jpg
-#   email: arif.o.harmanci@uth.tmc.edu
-# - name: Dr. Osman Yardimci
-#   role: Tool Development Lead
-#   university: Tuskegee University
-#   image: /assets/img/headshot/Ormanci.jpg
-#   email: oyardimci@tuskegee.edu
-# - name: Dr. Vivian Carter
-#   role: Engagement Lead
-#   university: Tuskegee University
-#   image: /assets/img/headshot/VivianCarter.jpg
-#   email: vcarter@tuskegee.edu
-# - name: Dr. Han Chen
-#   role: Workshop Lead
-#   university: UTHealth
-#   image: /assets/img/favicons/wildcard_icon.jpg
-#   email: han.chen.2@uth.tmc.edu
-# - name: Dr. Bala Karanam
-#   role: Collaboration Lead
-#   university: Tuskegee University
-#   image: /assets/img/headshot/Balu99.jpg
-#   email: balasubramanyam.karanam@tuskegee.edu
-# - name: Dr. Mandoye Ndoye
-#   role: Data Analysis Lead
-#   university: Tuskegee University
-#   image: /assets/img/headshot/Ndoye.jpg
-#   email: mndoye@tuskegee.edu
-# - name: Dr. Stephen Sodeke
-#   role: Ethical Content Lead
-#   university: Tuskegee University
-#   image: /assets/img/headshot/StephenSodeke.jpg
-#   email: ssodeke@tuskegee.edu
-# - name: Shay Price
-#   role: Logistics Coordinator
-#   university: UTHealth
-#   image: /assets/img/favicons/wildcard_icon.jpg
-#   email: shay.price@uth.tmc.edu
-# - name: Angelia Watson
-#   role: Development Coordinator
-#   university: UTHealth
-#   image: /assets/img/favicons/wildcard_icon.jpg
-#   email: angelia.h.watson@uth.tmc.edu
-# - name: Deepthi Viswaroopan
-#   role: Website Developer
-#   university: UTHealth
-#   image: /assets/img/favicons/wildcard_icon.jpg
-#   email: deepthi.viswaroopan@uth.tmc.edu
+- name: Dr. Channapatna Prakash
+  role: Project Development Lead
+  university: Tuskegee University
+  image: /assets/img/headshot/Prakash.jpg
+  email: cprakash@tuskegee.edu
+- name: Dr. Xiaoqian Jiang
+  role: Project Development Lead
+  university: UTHealth
+  image: /assets/img/headshot/Xiaoqian.jpg
+  email: xiaoqian.jiang@uth.tmc.edu
+- name: Dr. Xiao Chang
+  role: Research Lead
+  university: Tuskegee University
+  image: /assets/img/headshot/XiaoChang.jpg
+  email: xchang@tuskegee.edu
+- name: Dr. Chitra Nayak
+  role: Data Analysis Lead
+  university: Tuskegee University
+  image: /assets/img/headshot/NayakChitra.jpg
+  email: cnayak@tuskegee.edu
+- name: Dr. Honghe Wang
+  role: Content Develop Lead
+  university: Tuskegee University
+  image: /assets/img/headshot/HongheWang.jpg
+  email: hwang@tuskegee.edu
+- name: Dr. Arif Harmanci
+  role: Seminar Content Lead
+  university: UTHealth
+  image: /assets/img/favicons/wildcard_icon.jpg
+  email: arif.o.harmanci@uth.tmc.edu
+- name: Dr. Osman Yardimci
+  role: Tool Development Lead
+  university: Tuskegee University
+  image: /assets/img/headshot/Ormanci.jpg
+  email: oyardimci@tuskegee.edu
+- name: Dr. Vivian Carter
+  role: Engagement Lead
+  university: Tuskegee University
+  image: /assets/img/headshot/VivianCarter.jpg
+  email: vcarter@tuskegee.edu
+- name: Dr. Han Chen
+  role: Workshop Lead
+  university: UTHealth
+  image: /assets/img/favicons/wildcard_icon.jpg
+  email: han.chen.2@uth.tmc.edu
+- name: Dr. Bala Karanam
+  role: Collaboration Lead
+  university: Tuskegee University
+  image: /assets/img/headshot/Balu99.jpg
+  email: balasubramanyam.karanam@tuskegee.edu
+- name: Dr. Mandoye Ndoye
+  role: Data Analysis Lead
+  university: Tuskegee University
+  image: /assets/img/headshot/Ndoye.jpg
+  email: mndoye@tuskegee.edu
+- name: Dr. Stephen Sodeke
+  role: Ethical Content Lead
+  university: Tuskegee University
+  image: /assets/img/headshot/StephenSodeke.jpg
+  email: ssodeke@tuskegee.edu
+- name: Shay Price
+  role: Logistics Coordinator
+  university: UTHealth
+  image: /assets/img/favicons/wildcard_icon.jpg
+  email: shay.price@uth.tmc.edu
+- name: Angelia Watson
+  role: Development Coordinator
+  university: UTHealth
+  image: /assets/img/favicons/wildcard_icon.jpg
+  email: angelia.h.watson@uth.tmc.edu
+- name: Deepthi Viswaroopan
+  role: Website Developer
+  university: UTHealth
+  image: /assets/img/favicons/wildcard_icon.jpg
+  email: deepthi.viswaroopan@uth.tmc.edu
