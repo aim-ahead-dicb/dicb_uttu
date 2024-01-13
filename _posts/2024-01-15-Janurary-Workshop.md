@@ -107,8 +107,7 @@ pin: true
 
 #### 1:00 - 1:30: Session Part 1: Introduction to Bioethics in Data Governance - Theme: "Understanding the Ethical Implications of Data Governance" - Dr. Stephen Sodeke
 #### 1:30 - 1:45: Q&A Session: Introduction to Bioethics in Data Governance - Theme: "Discussing the Ethical Implications of Data Governance" - Panel includes Dr. Sodeke, Dr. Carter, Dr. Arif Harmanci, Dr. Han Chen, and interested MSBMI faculty
-#### 1:45 - 2:00: Session Part 2: Case Studies in Bioethics and Data Governance - Theme: "Exploring Real-world Scenarios of Ethical Dilemmas in Data Governance" - Dr. 
-Stephen Sodeke
+#### 1:45 - 2:00: Session Part 2: Case Studies in Bioethics and Data Governance - Theme: "Exploring Real-world Scenarios of Ethical Dilemmas in Data Governance" - Dr. Stephen Sodeke
 #### 2:00 - 2:15: Q&A Session: Case Studies in Bioethics and Data Governance - Panel includes Dr. Sodeke, Dr. Carter, Dr. Arif Harmanci, Dr. Han Chen, and interested MSBMI faculty
 #### 2:00 - 3:00: Case Studies in Data Governance and Health Equity - Dr. Osman Yardimci
 #### 3:00 - 4:00: Panel Discussion: Ethical Considerations in AI/ML for Healthcare - Dr. Honghe Wang, Dr. Arif Harmanci, invited external experts, and anyone else interested. Questions to inspire discussion: 
