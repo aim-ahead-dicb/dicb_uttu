@@ -15,6 +15,8 @@ pin: true
 <details>
 <summary style="background-color: #000000; font-weight: bold; color: #FFFFFF; font-size: 2em;">Zoom Meeting Link</summary>
 
+<p style="font-weight: bold; color: red; font-size: 1.5em;">Notice: This meeting is postponed due to extreme weather conditions. New dates to be announced.</p>
+
 <div style="margin-left: 20px;">
 
 <strong>Topic:</strong> AIM-AHEAD DICB UTTU<br>
