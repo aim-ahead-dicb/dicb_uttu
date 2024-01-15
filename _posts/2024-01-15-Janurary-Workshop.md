@@ -15,7 +15,6 @@ pin: true
 <details>
 <summary style="background-color: #000000; font-weight: bold; color: #FFFFFF; font-size: 2em;">Zoom Meeting Link</summary>
 
-<p style="font-weight: bold; color: red; font-size: 1.5em;">Notice: This meeting is postponed due to extreme weather conditions. New dates to be announced.</p>
 
 <div style="margin-left: 20px;">
 
@@ -24,6 +23,9 @@ pin: true
 &emsp;&emsp;&emsp;&emsp;Every day, until Jan 18, 2024, 2 occurrence(s)<br>
 &emsp;&emsp;&emsp;&emsp;Jan 17, 2024 08:30 AM<br>
 &emsp;&emsp;&emsp;&emsp;Jan 18, 2024 08:30 AM<br>
+
+<p style="font-weight: bold; color: red; font-size: 1.5em;">Notice: This meeting is postponed due to extreme weather conditions. New dates to be announced.</p>
+
 
 <strong>Join Zoom Meeting</strong><br>
 <a href="https://uthealth.zoom.us/j/98256802192?pwd=TjRlWFVYNXpMZXRXM2dhYjdkWXVHQT09">https://uthealth.zoom.us/j/98256802192?pwd=TjRlWFVYNXpMZXRXM2dhYjdkWXVHQT09</a><br>
