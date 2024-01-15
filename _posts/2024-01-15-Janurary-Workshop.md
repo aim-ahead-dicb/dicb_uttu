@@ -24,7 +24,7 @@ pin: true
 &emsp;&emsp;&emsp;&emsp;Jan 17, 2024 08:30 AM<br>
 &emsp;&emsp;&emsp;&emsp;Jan 18, 2024 08:30 AM<br>
 
-<p style="font-weight: bold; color: red; font-size: 2em;">Notice: This meeting is postponed due to extreme weather conditions. New dates to be announced.</p><br>
+<strong style="font-weight: bold; color: red; font-size: 2em;">Notice: This meeting is postponed due to extreme weather conditions. New dates to be announced.</strong><br>
 
 
 
