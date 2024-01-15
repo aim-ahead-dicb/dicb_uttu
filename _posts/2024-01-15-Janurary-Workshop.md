@@ -11,6 +11,8 @@ pin: true
 * Theme: "Exploring the intersection of data governance, AI/ML, and health equity"
 * Location: Rio Grande Conference room, RM E630, 7000 Fannin St., Houston, TX 77030
 
+<p style="font-weight: bold; color: red; font-size: 2em;">Notice: This meeting is postponed due to extreme weather conditions. New dates to be announced.</p><br>
+
 
 <details>
 <summary style="background-color: #000000; font-weight: bold; color: #FFFFFF; font-size: 2em;">Zoom Meeting Link</summary>
@@ -18,15 +20,13 @@ pin: true
 
 <div style="margin-left: 20px;">
 
+<p style="font-weight: bold; color: red; font-size: 2em;">Notice: This meeting is postponed due to extreme weather conditions. New dates to be announced.</p><br>
+
 <strong>Topic:</strong> AIM-AHEAD DICB UTTU<br>
 <strong>Time:</strong> Jan 17, 2024 08:30 AM Central Time (US and Canada)<br>
 &emsp;&emsp;&emsp;&emsp;Every day, until Jan 18, 2024, 2 occurrence(s)<br>
 &emsp;&emsp;&emsp;&emsp;Jan 17, 2024 08:30 AM<br>
 &emsp;&emsp;&emsp;&emsp;Jan 18, 2024 08:30 AM<br>
-
-<strong style="font-weight: bold; color: red; font-size: 2em;">Notice: This meeting is postponed due to extreme weather conditions. New dates to be announced.</strong><br>
-
-
 
 <strong>Join Zoom Meeting</strong><br>
 <a href="https://uthealth.zoom.us/j/98256802192?pwd=TjRlWFVYNXpMZXRXM2dhYjdkWXVHQT09">https://uthealth.zoom.us/j/98256802192?pwd=TjRlWFVYNXpMZXRXM2dhYjdkWXVHQT09</a><br>
