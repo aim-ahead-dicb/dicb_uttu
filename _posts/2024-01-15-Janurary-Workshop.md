@@ -29,10 +29,10 @@ pin: true
 &emsp;&emsp;&emsp;&emsp;Jan 30, 2024 08:30 AM<br>
 
 <strong>Join Zoom Meeting</strong><br>
-<a href="https://uthealth.zoom.us/j/98256802192?pwd=TjRlWFVYNXpMZXRXM2dhYjdkWXVHQT09">https://uthealth.zoom.us/j/98256802192?pwd=TjRlWFVYNXpMZXRXM2dhYjdkWXVHQT09</a><br>
+<a href="https://uthealth.zoom.us/j/99411035097?pwd=NG9JY2VsVllpWCtUN1ROUFN4N2h2UT09">https://uthealth.zoom.us/j/99411035097?pwd=NG9JY2VsVllpWCtUN1ROUFN4N2h2UT09</a><br>
 
-<strong>Meeting ID:</strong> 982 5680 2192<br>
-<strong>Passcode:</strong> 094498<br>
+<strong>Meeting ID:</strong> 994 1103 5097<br>
+<strong>Passcode:</strong> 489106<br>
 
 <hr>
 
@@ -65,12 +65,12 @@ pin: true
 <strong>Meeting ID:</strong> 982 5680 2192<br>
 <strong>Passcode:</strong> 094498<br>
 
-<strong>Find your local number:</strong> <a href="https://uthealth.zoom.us/u/adwaPmynsO">https://uthealth.zoom.us/u/adwaPmynsO</a><br>
+<strong>Find your local number:</strong> <a href="https://uthealth.zoom.us/u/acdIa58UcQ">https://uthealth.zoom.us/u/acdIa58UcQ</a><br>
 
 <hr>
 
 <strong>Join by SIP</strong><br>
-• 98256802192@zoomcrc.com<br>
+• 99411035097@zoomcrc.com<br>
 
 <hr>
 
@@ -90,8 +90,8 @@ pin: true
 • 207.226.132.110 (Japan Tokyo)<br>
 • 149.137.24.110 (Japan Osaka)<br>
 
-<strong>Meeting ID:</strong> 982 5680 2192<br>
-<strong>Passcode:</strong> 094498<br>
+<strong>Meeting ID:</strong> 994 1103 5097<br>
+<strong>Passcode:</strong> 489106<br>
 
 </div>
 </details>
