@@ -145,4 +145,4 @@ pin: true
 
 ## Workshop flyer
 
-<img src="{{ site.url | append: site.baseurl | append: '/assets/img/workshop_flyer.png' }}" class="card-img-top img-fluid" alt="Workshop flyer" />
+<img src="{{ site.url | append: site.baseurl | append: '/assets/img/UTHTU-Workshop-Flyer-v2.png' }}" class="card-img-top img-fluid" alt="Workshop flyer" />
