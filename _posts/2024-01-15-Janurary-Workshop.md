@@ -19,8 +19,7 @@ pin: true
 
 
 <div style="margin-left: 20px;">
-
-<p style="font-weight: bold; color: red; font-size: 2em;">Notice: This meeting is postponed due to extreme weather conditions. New dates will be 1/29-30.</p><br>
+<!-- <p style="font-weight: bold; color: red; font-size: 2em;">Notice: This meeting is postponed due to extreme weather conditions. New dates will be 1/29-30.</p><br> -->
 
 <strong>Topic:</strong> AIM-AHEAD DICB UTTU<br>
 <strong>Time:</strong> Jan 29, 2024 08:30 AM Central Time (US and Canada)<br>
