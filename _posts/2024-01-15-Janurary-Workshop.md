@@ -20,13 +20,13 @@ pin: true
 
 <div style="margin-left: 20px;">
 
-<p style="font-weight: bold; color: red; font-size: 2em;">Notice: This meeting is postponed due to extreme weather conditions. New dates to be announced.</p><br>
+<p style="font-weight: bold; color: red; font-size: 2em;">Notice: This meeting is postponed due to extreme weather conditions. New dates will be 1/29-30.</p><br>
 
 <strong>Topic:</strong> AIM-AHEAD DICB UTTU<br>
-<strong>Time:</strong> Jan 17, 2024 08:30 AM Central Time (US and Canada)<br>
-&emsp;&emsp;&emsp;&emsp;Every day, until Jan 18, 2024, 2 occurrence(s)<br>
-&emsp;&emsp;&emsp;&emsp;Jan 17, 2024 08:30 AM<br>
-&emsp;&emsp;&emsp;&emsp;Jan 18, 2024 08:30 AM<br>
+<strong>Time:</strong> Jan 29, 2024 08:30 AM Central Time (US and Canada)<br>
+&emsp;&emsp;&emsp;&emsp;Every day, until Jan 30, 2024, 2 occurrence(s)<br>
+&emsp;&emsp;&emsp;&emsp;Jan 29, 2024 08:30 AM<br>
+&emsp;&emsp;&emsp;&emsp;Jan 30, 2024 08:30 AM<br>
 
 <strong>Join Zoom Meeting</strong><br>
 <a href="https://uthealth.zoom.us/j/98256802192?pwd=TjRlWFVYNXpMZXRXM2dhYjdkWXVHQT09">https://uthealth.zoom.us/j/98256802192?pwd=TjRlWFVYNXpMZXRXM2dhYjdkWXVHQT09</a><br>
@@ -97,7 +97,7 @@ pin: true
 </details>
 
 
-### Day 1 (1/17)
+### Day 1 (1/29)
 
 #### 9:00 - 9:15: Opening Remarks - Dean Prakash and Dean Zhang
 #### 9:15 - 9:30: Workshop Introduction - Dr. Xiaoqian Jiang
@@ -127,7 +127,7 @@ pin: true
 * Phone: (832) 786-8000
 * Note: The dinner is booked at 6:45 under Dr. Xiaoqian Jiang. Aga's is the #1 Indian restaurant in Houston. Please be aware that the table will only hold for 10 minutes.
     
-### Day 2 (1/18)
+### Day 2 (1/30)
 
 #### 9:00 - 10:00: Discussion on 4+1 Joint Program with Dr. Fenton - Dr. Prakash 
 * This session will focus on the potential collaboration between our institution and the 4+1 Joint Program. Dr. Fenton, Dr. Prakash, Dr. Honghe Wang, and Dr. Chitra Nayak will lead the discussion, exploring the benefits and challenges of such a partnership.
