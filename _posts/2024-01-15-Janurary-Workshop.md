@@ -7,11 +7,11 @@ tags: [workshop]
 pin: true
 ---
 
-## Title: "Data Governance in Healthcare: Ethical and Computational Perspectives"
+## Data Governance in Healthcare: Ethical and Computational Perspectives
 * Theme: "Exploring the intersection of data governance, AI/ML, and health equity"
 * Location: Rio Grande Conference room, RM E630, 7000 Fannin St., Houston, TX 77030
 
-<p style="font-weight: bold; color: red; font-size: 2em;">Notice: This meeting is postponed due to extreme weather conditions. New dates to be announced.</p><br>
+<p style="font-weight: bold; color: red; font-size: 2em;">Notice: This meeting is postponed due to extreme weather conditions. New dates will be 1/29-30.</p><br>
 
 
 <details>
