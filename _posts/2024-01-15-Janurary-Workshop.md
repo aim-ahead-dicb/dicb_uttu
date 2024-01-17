@@ -128,18 +128,20 @@ pin: true
     
 ### Day 2 (1/30)
 
-#### 9:00 - 10:00: Discussion on 4+1 Joint Program with Dr. Fenton - Dr. Prakash 
+#### 8:00 - 9:00: Discussion on 4+1 Joint Program with Dr. Fenton - Dr. Prakash 
 * This session will focus on the potential collaboration between our institution and the 4+1 Joint Program. Dr. Fenton, Dr. Prakash, Dr. Honghe Wang, and Dr. Chitra Nayak will lead the discussion, exploring the benefits and challenges of such a partnership.
+* Note: This time is not determined and might need to be changed.
+
+#### 9:00 - 10:00: Roundtable: Data Access and Computation/ML Capability - Dr. Osman Yardimci, Dr. Stephen Sodeke, Dr. Vivian Carter, Dr. Zhao Li (on behave of Dr. Jim Zheng)
+* This roundtable session will delve into the critical aspects of data access and computational capabilities in the context of the emerging AI landscape. The discussion will explore the challenges and opportunities associated with accessing and managing large datasets, the computational requirements for handling such data, and the implications for machine learning capabilities. 
+* The session aims to foster a comprehensive understanding of these issues and stimulate ideas for innovative solutions and strategies.
 * Note: This time is not determined and might need to be changed.
 
 #### 10:00 - 11:00: AI Fairness with Industry and Leaders - Dr. Xiaoqian Jiang
 * In this session, Dr. Xiaoqian Jiang will lead a discussion on AI fairness. The discussion will involve industry leaders and will focus on the importance of fairness in AI, the current state of fairness in AI, and what steps can be taken to improve fairness in AI.
 * Note: This time is not determined and might need to be changed.
 
-#### 11:00 - 12:00: Roundtable: Data Access and Computation/ML Capability - Dr. Osman Yardimci, Dr. Stephen Sodeke, Dr. Vivian Carter, Dr. Jim Zheng
-* This roundtable session will delve into the critical aspects of data access and computational capabilities in the context of the emerging AI landscape. The discussion will explore the challenges and opportunities associated with accessing and managing large datasets, the computational requirements for handling such data, and the implications for machine learning capabilities. 
-* The session aims to foster a comprehensive understanding of these issues and stimulate ideas for innovative solutions and strategies.
-* Note: This time is not determined and might need to be changed.
+
 
 ## Workshop flyer
 
