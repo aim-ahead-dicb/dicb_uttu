@@ -98,8 +98,8 @@ pin: true
 
 ### Day 1 (1/29)
 
-#### 9:00 - 9:15: Opening Remarks - Dean Prakash and Dean Zhang
-#### 9:15 - 9:30: Workshop Introduction - Dr. Xiaoqian Jiang
+#### 9:00 - 9:25: Opening Remarks - Dean Prakash (10 minutes) and Dean Zhang (15 minutes)
+#### 9:25 - 9:30: Workshop Introduction - Dr. Xiaoqian Jiang
 #### 9:30 - 10:00: Introduction to Data Governance in Healthcare - Dr. Xiao Chang, Dr. Chitra Nayak
 #### 10:00 - 10:30: Joint DICB Session with Dr. Kakadiaris for Synergy - Dr. Kakadiaris will present his plan on data linkage, harmonization, and curation.
 #### 10:30 - 11:00: AIM-AHEAD Session - PI JK and Dr. Toufeeq Syed will discuss the AIM-AHEAD contribution and need assessment.
