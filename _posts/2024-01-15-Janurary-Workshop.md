@@ -141,6 +141,17 @@ pin: true
 * In this session, Dr. Xiaoqian Jiang will lead a discussion on AI fairness. The discussion will involve industry leaders and will focus on the importance of fairness in AI, the current state of fairness in AI, and what steps can be taken to improve fairness in AI.
 * Note: This time is not determined and might need to be changed.
 
+#### 11:00 - 12:00: Social Session - Open Discussion
+* This session is an open discussion where participants can interact and discuss various topics in a relaxed setting. It's a great opportunity to network and share ideas.
+
+
+#### 12:00 - 1:00: Lunch Break
+* A lunch break is scheduled for all participants. This is a good time to relax, enjoy some food, and casually discuss the morning's sessions.
+
+#### 1:00 - 3:00: MSBMI Tour and Interaction with Local Faculty
+* This session will include a tour of the MSBMI facilities and an opportunity to interact with local faculty. Participants will have the chance to learn more about the work being done at MSBMI and discuss potential collaborations.
+
+
 
 
 ## Workshop flyer
