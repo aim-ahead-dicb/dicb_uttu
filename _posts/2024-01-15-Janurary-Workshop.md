@@ -101,7 +101,7 @@ pin: true
 #### 9:00 - 9:25: Opening Remarks - Dean Prakash (10 minutes) and Dean Zhang (15 minutes)
 #### 9:25 - 9:30: Workshop Introduction - Dr. Xiaoqian Jiang
 #### 9:30 - 10:00: Introduction to Data Governance in Healthcare - Dr. Xiao Chang, Dr. Chitra Nayak
-#### 10:00 - 10:30: Joint DICB Session with Dr. Kakadiaris for Synergy - Dr. Kakadiaris will present his plan on data linkage, harmonization, and curation.
+#### 10:00 - 10:30: Joint DICB Session with Drs. Kakadiaris and Roberts for Synergy - Dr. Kakadiaris and Dr. Roberts will present his plan on data linkage, harmonization, and curation.
 #### 10:30 - 11:00: AIM-AHEAD Session - PI JK and Dr. Toufeeq Syed will discuss the AIM-AHEAD contribution and need assessment.
 #### 11:00 - 11:30: Presentation: Computational Biology and Genomics in AI/ML Research - Dr. Balasubramanyam Karanam, Dr. Xiaoqian Jiang
 #### 11:30 - 11:45: Discussion: Computational Biology and Genomics in AI/ML Research - Moderated by Dr. Osman Yardimci
