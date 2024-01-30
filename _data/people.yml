@@ -39,7 +39,7 @@
 - name: Dr. Arif Harmanci
   role: Seminar Content Lead
   university: UTHealth
-  image: /assets/img/favicons/wildcard_icon.jpg
+  image: /assets/img/headshot/ArifHarmanci.jpg
   email: arif.o.harmanci@uth.tmc.edu
 - name: Dr. Osman Yardimci
   role: Tool Development Lead
@@ -54,7 +54,7 @@
 - name: Dr. Han Chen
   role: Workshop Lead
   university: UTHealth
-  image: /assets/img/favicons/wildcard_icon.jpg
+  image: /assets/img/headshot/HanChen.jpg
   email: han.chen.2@uth.tmc.edu
 - name: Dr. Bala Karanam
   role: Collaboration Lead
@@ -74,15 +74,15 @@
 - name: Shay Price
   role: Logistics Coordinator
   university: UTHealth
-  image: /assets/img/favicons/wildcard_icon.jpg
+  image: /assets/img/headshot/IMG_4451.jpg
   email: shay.price@uth.tmc.edu
 - name: Angelia Watson
   role: Development Coordinator
   university: UTHealth
-  image: /assets/img/favicons/wildcard_icon.jpg
+  image: /assets/img/headshot/Angie Short Hair.jpg
   email: angelia.h.watson@uth.tmc.edu
 - name: Deepthi Viswaroopan
   role: Website Developer
   university: UTHealth
-  image: /assets/img/favicons/wildcard_icon.jpg
+  image: /assets/img/headshot/DeepthiVis-1.jpg
   email: deepthi.viswaroopan@uth.tmc.edu
