@@ -10,4 +10,4 @@ pin: true
 This is a draft Data Governance document that we want to turn into a working paper.
 
 
-<object data="../assets/slides/Workshop_DataGovernance.pdf" width="800" height="600" type='application/pdf'></object>
+<object data="{{ site.url | append: site.baseurl | append: '/assets/slides/Workshop_DataGovernance.pdf' }}" width="800" height="600" type='application/pdf'></object>
