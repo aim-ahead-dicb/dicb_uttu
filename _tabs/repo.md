@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 layout: page
-icon: fas fa-info-circle
+icon: fas  list-alt
 order: 2
 ---
 
