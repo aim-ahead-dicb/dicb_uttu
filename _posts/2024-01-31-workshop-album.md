@@ -9,11 +9,13 @@ pin: true
 <!-- 
 <iframe width="750" height="563"  src="https://photos.app.goo.gl/4amdgQESsoedaZ4t5" frameborder="0" style="border:0" allowfullscreen></iframe>
  -->
-<script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
+
+ <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
 <div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
   data-link="https://photos.app.goo.gl/4amdgQESsoedaZ4t5"
   data-title="DICB UTTU"
-  data-description="21 new items · Album by Xiaoqian Jiang">
+  data-description="21 new items · Album by Xiaoqian Jiang"
+  data-delay="2">
   <object data="https://lh3.googleusercontent.com/pw/ABLVV852M0ZUrs8VW3fIxBfW8uMuzskqNDQVWej_4nVCb12ckUJYjg5VwygP8zrGuSxIdkie7Kozv0ck0JDqMt9SejKX9Oqx7dP7MO51c1RCHc7yK4W0wwc=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/pw/ABLVV84gp8wOYa0KuMu9TsTrxgF_IH_G0UIKcOFVhiHGr1D2JUTDQu07itoCyilFTWciYI2GXabC0Wr8by2YKgK8SKT8SNVIiuMZCOvcNenkYVM9WsYsRQo=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/pw/ABLVV86gDO29_KKTxkKXhmBydaT8kvaItMTcjj_cN5psG26G8SbvnYLGfv8yO7mC9QV72QJ6Bhj0HXwSRRZAKujuPwt11MBU4ufZPZkytt_4EAGmIDeYLCQ=w1920-h1080"></object>
@@ -36,3 +38,4 @@ pin: true
   <object data="https://lh3.googleusercontent.com/pw/ABLVV87nwoHfTCQ-wyi18zDTSGNOZmNeHNNlPO4kfHewdZhK4iaZux4-t57mNlWR6gG92p2vWOmGaR813ihCX0mLdTlDQARdR9oKx8RAnO67YBqSRZrm_UA=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/pw/ABLVV85-vRBrB-p6F2dXgYY_MPI-IHLHUK7I2jprgqygNDo5TsSjxPluAPn2FC-VIxF-5xSRwBG7uypMKBbF891aidrd-X4UBE8sgUEfQ3U_AeONhvcWaAw=w1920-h1080"></object>
 </div>
+
