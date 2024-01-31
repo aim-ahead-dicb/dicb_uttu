@@ -6,6 +6,7 @@ categories: [bioethics, data ethics]
 tags: [paper]
 pin: true
 ---
+
 ### Federal Data Strategy - Data Ethics Framework
 This document provides comprehensive guidance for ethical decision-making regarding data use within the U.S. federal government. It outlines key ethical principles and practices essential for managing and using data, especially in the public sector. The full document can be accessed by downloading it from the updated link [here](https://resources.data.gov/assets/documents/fds-data-ethics-framework.pdf).
 
