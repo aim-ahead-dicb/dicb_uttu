@@ -1,7 +1,7 @@
 ---
 title: Workshop at Moody Gardens, Galveston, TX
 author:  xj
-date: 2024-03-15:11:18 +0800
+date: 2024-03-14 10:55:00 +0800
 categories: [Meeting, Collaboration]
 tags: [workshop]
 pin: true
