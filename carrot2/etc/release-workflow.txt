@@ -1,0 +1,81 @@
+Release steps
+-------------
+
+* Check if the documentation contains version the soon-to-be-published
+  entry and if it's complete.
+
+* Check if all the issues are resolved
+
+https://github.com/carrot2/carrot2/issues
+
+* Bump version number to a non-snapshot version ([versions] -> carrot2)
+
+vi versions.toml
+
+commit changes.
+
+git commit -am "Bumping version."
+git push
+
+* Build and check the entire distribution. Or wait for the GH action(s) to pass
+
+gradlew clean assemble check
+
+* Tag the release.
+
+export VERSION=xxx
+git tag release/$VERSION -m "Release $VERSION"
+git push origin release/$VERSION
+
+* Update statically published documentation:
+
+rm -rf build/carrot2.github.io
+git clone --depth 1 git@github.com:carrot2/carrot2.github.io build/carrot2.github.io
+
+rm -rf build/carrot2.github.io/release/$VERSION/
+mkdir build/carrot2.github.io/release/$VERSION/
+
+cp -R distribution/build/dist/dcs/web/doc     build/carrot2.github.io/release/$VERSION/
+cp -R distribution/build/dist/dcs/web/javadoc build/carrot2.github.io/release/$VERSION/
+cd build/carrot2.github.io/
+
+* update the 'latest' link in:
+vi release/latest/index.html
+
+git add -A .
+git commit -am "Documentation for version $VERSION"
+git push
+cd ../..
+
+* Go to github, find the release tag and create a release for it.
+
+https://github.com/carrot2/carrot2/tags
+
+Attach release binaries from: 
+
+  distribution/build/distZip/*.zip
+
+* Redeploy public DCS demo frontend. Go to the build plan, locate build for 
+this version, create a new deployment and promote to production server.
+
+https://builds.carrotsearch.com/browse/C2-C2DCS
+
+NOTE: the staging environment requires the vps node to be (manually) started at ramnode.
+
+* Publish to sonatype staging repo. The max workers
+  limit is set there because otherwise Nexus creates multiple
+  repositories automatically for all parallel threads (sigh).
+
+gradlew publishSonatype --max-workers=1
+
+* Go to sonatype, verify and ack the release.
+
+https://s01.oss.sonatype.org/index.html#stagingRepositories
+
+* Bump version number strings to the subsequent version, commit.
+
+* Circulate release news
+
+  - Wikipedia page. https://en.wikipedia.org/wiki/Carrot2
+
+* Consider upgrading &C2; in dependent projects

@@ -1,0 +1,47 @@
+allprojects {
+  plugins.withType(JavaPlugin) {
+    java {
+      sourceCompatibility = 11
+      targetCompatibility = 11
+    }
+
+    base.archivesName = "carrot2" + project.path.replace(':', '-')
+
+    tasks.withType(JavaCompile) {
+      options.compilerArgs << "-Xlint:unchecked" << "-Xlint:deprecation"
+      options.encoding = "UTF-8"
+    }
+
+    tasks.withType(Jar) {
+      manifest {
+        attributes(
+            "Implementation-Vendor": "Carrot2 (https://carrot2.org)",
+            "Implementation-Title": "Carrot2 ${project.name}",
+            "Implementation-Version": "${project.version} (${replaceTokens['product.gitrev']}, ${replaceTokens['product.buildDate']})")
+      }
+    }
+
+    tasks.withType(Javadoc) {
+      options.encoding = 'UTF-8'
+    }
+
+    tasks.matching { it.name == "javadoc" }.all {
+      title = "${project.name} ${project.version} API Documentation"
+
+      options.addBooleanOption('html5', true)
+      options.addBooleanOption('Xdoclint:all,-missing', true)
+      options.noIndex()
+    }
+  }
+}
+
+subprojects {
+  plugins.withType(JavaPlugin) {
+    def moduleName = "${project.group}.${project.name.replaceAll('-', '.')}"
+    jar {
+      manifest {
+        attributes("Automatic-Module-Name": moduleName)
+      }
+    }
+  }
+}

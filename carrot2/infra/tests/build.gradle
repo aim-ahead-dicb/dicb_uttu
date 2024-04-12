@@ -1,0 +1,15 @@
+apply plugin: 'java-library'
+
+dependencies {
+  api deps.slf4j.api
+
+  api deps.junit
+  api deps.assertj
+  api deps.randomizedtesting.runner
+
+  api deps.httpclient
+
+  api deps.log4j.core
+  api deps.log4j.slf4j2
+}
+

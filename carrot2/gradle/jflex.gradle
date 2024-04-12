@@ -1,0 +1,50 @@
+configurations {
+  jflex
+}
+
+dependencies {
+  jflex deps.jflex
+}
+
+sourceSets {
+  main {
+    java {
+      srcDirs += [
+        "src/main/java-jflex"
+      ]
+    }
+  }
+}
+
+task jflex {
+  description "Recompile jflex grammar files."
+  group "build"
+
+  def jflexSource = file('src/main/jflex').toPath()
+  def jflexTarget = file('src/main/java-jflex').toPath()
+
+  inputs.files(fileTree(dir: jflexSource, include: "**/*.jflex"))
+  outputs.dir(jflexTarget)
+
+  doLast {
+    inputs.files.forEach { path ->
+      def relative = jflexSource.relativize(path.toPath())
+
+      javaexec {
+        classpath {
+          configurations.jflex
+        }
+
+        mainClass = "jflex.Main"
+        args = [
+          "-nobak",
+          "--encoding",
+          "UTF-8",
+          "-d",
+          jflexTarget.resolve(relative.getParent()),
+          path
+        ]
+      }
+    }
+  }
+}

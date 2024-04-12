@@ -1,0 +1,23 @@
+
+apply plugin: 'java-library'
+
+repositories {
+  mavenCentral()
+
+  def localRepo = file('../artifacts')
+  if (localRepo.isDirectory()) {
+    maven {
+      name 'local'
+      url localRepo
+    }
+  }
+}
+
+dependencies {
+  implementation "org.carrot2:carrot2-core:${product.version}"
+  testImplementation "org.carrot2.lang:carrot2-lang-polish:${product.version}"
+  testImplementation "org.carrot2.lang:carrot2-lang-lucene:${product.version}"
+  testImplementation "org.apache.lucene:lucene-analysis-icu:${version.lucene-analysis-icu}"
+  testImplementation "junit:junit:${version.junit}"
+}
+

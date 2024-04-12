@@ -1,0 +1,14 @@
+apply plugin: 'java-library'
+
+configurations {
+  langResources
+}
+
+dependencies {
+  implementation project(':core')
+  implementation project(':lang:lucene')
+  implementation deps.lucene.analysis.smartcn
+  implementation deps.lucene.analysis.icu
+
+  langResources fileTree(dir: 'src/main/resources', includes: langResourcePatterns)
+}

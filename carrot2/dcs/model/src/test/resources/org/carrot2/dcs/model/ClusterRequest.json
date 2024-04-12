@@ -1,0 +1,23 @@
+{
+  "language": "Klingon",
+  "algorithm": "Foobar",
+  "parameters": {
+    "foo": "bar",
+    "bar": [
+      "baz"
+    ],
+    "baz": {}
+  },
+  "documents": [
+    {
+      "title": "baz",
+      "snippet": "bar"
+    },
+    {
+      "title": "foo"
+    },
+    {
+      "title": ["ala", "ma", "kota"]
+    }
+  ]
+}

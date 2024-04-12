@@ -1,0 +1,11 @@
+{
+  "language": "English",
+  "algorithm": "Dummy",
+  "parameters": {
+    "unknownAttr": {
+      "foo": "bar"
+    }
+  },
+  "documents": [
+  ]
+}
