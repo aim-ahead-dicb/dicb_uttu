@@ -15,8 +15,6 @@ import { queryStore } from "../../apps/workbench/store/query-store.js";
 import { resultListConfigStore } from "../results/ResultListConfig.js";
 import { GenericSearchEngineErrorMessage } from "../../apps/search-app/ui/ErrorMessage.js";
 
-
-
 const pubmedConfigStore = persistentStore("pubmedResultConfig", {
   showJournal: true,
   showKeywords: true
