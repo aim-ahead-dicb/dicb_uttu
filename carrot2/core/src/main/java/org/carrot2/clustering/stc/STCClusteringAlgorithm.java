@@ -208,7 +208,7 @@ public final class STCClusteringAlgorithm extends AttrComposite implements Clust
   /**
    * Merge all stem-equivalent base clusters before running the merge phase.
    *
-   * @see "http://issues.carrot2.org/browse/CARROT-1008"
+   * @see "https://issues.carrot2.org/browse/CARROT-1008"
    */
   public AttrBoolean mergeStemEquivalentBaseClusters =
       attributes.register(

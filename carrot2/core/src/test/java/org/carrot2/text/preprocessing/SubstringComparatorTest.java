@@ -20,7 +20,7 @@ import org.junit.Test;
 /** Test cases for {@link SubstringComparator}. */
 public class SubstringComparatorTest extends TestBase {
   /**
-   * @see "http://issues.carrot2.org/browse/CARROT-778"
+   * @see "https://issues.carrot2.org/browse/CARROT-778"
    */
   @Test
   public void testCarrot778() {
