@@ -5,7 +5,16 @@ date: 2023-01-13 20:55:00 +0800
 categories: [bioethics, data ethics]
 tags: [paper]
 pin: true
+stylesheets: 
+  - /assets/css/carrot2.css
+scripts:
+  - /assets/js/carrot2.js
 ---
+
+<div>
+  <a href="#" id="carrot2Link">Search and cluster more PubMed articles here</a>
+</div>
+<iframe id="carrot2Frame"></iframe>
 
 ### Federal Data Strategy - Data Ethics Framework
 This document provides comprehensive guidance for ethical decision-making regarding data use within the U.S. federal government. It outlines key ethical principles and practices essential for managing and using data, especially in the public sector. The full document can be accessed by downloading it from the updated link [here](https://resources.data.gov/assets/documents/fds-data-ethics-framework.pdf).
