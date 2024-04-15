@@ -1,7 +1,0 @@
-{
-  "exact": [],
-  "glob": [],
-  "regexp": [
-    "(?i)(sito|nuovi|basta)"
-  ]
-}
