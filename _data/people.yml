@@ -91,18 +91,23 @@
   university: Tuskegee University
   image: /assets/img/headshot/TabithaPiner.jpg
   email: tpiner@tuskegee.edu
-- name: Theodora Tibaikana
-  role: Graduate Research, Psychology
-  university: Tuskegee University
-  image: /assets/img/headshot/TheodoraTibaikana.jpg
-  email: ttibaikana3066@tuskegee.edu
-- name: Basit Hussain
-  role: Undergraduate Research, Computer Science
-  university: Tuskegee University
-  image: /assets/img/headshot/BasitHussain300.jpeg
-  email: bhaussain9957@tuskegee.edu
 - name: Zahin Fairuza
   role: Graduate Research, Computer Science
   university: Tuskegee University
   image: /assets/img/headshot/ZahinFairuza.jpg
   email: zfairuza9668@tuskegee.edu
+- name: Dr. Dilip Reddy Gunturu
+  role: Biomedical Data and AI Ethics Lead
+  university: Tuskegee University
+  image: /assets/img/headshot/Dilip.jpg
+  email: dgunturu@tuskegee.edu
+- name: Brett Coppenger
+  role: Lead Epistemologist and Ethicist
+  university: Tuskegee University
+  image: /assets/img/headshot/coppenger head shot.jpg
+  email: bcoppenger@tuskegee.edu
+- name: Dr. Onyinye Rosemary Asogwa
+  role: Program Manager
+  university: Tuskegee University
+  image: /assets/img/headshot/Onyinye Rosemary Asogwa.jpg
+  email: ora0002@auburn.edu/onyiekwueme@gmail.com
