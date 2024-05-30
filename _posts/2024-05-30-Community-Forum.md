@@ -1,12 +1,11 @@
 ---
-title: Community Voices Luncheon Forum at Tompkins Hall Ballroom, Tuskegee University  
+title: Coummunity Voices Luncheon Forum at Tompkins Hall Ballroom, Tuskegee University  
 author:  dv
 date: 2024-05-30 12:34:00 +0800
 categories: [Meeting, Forum]
 tags: [community]
 pin: true
 ---
-## Community Voices Luncheon Forum 
 ## RSVP by May 31 at (https://forms.office.com/r/BnhZTmYagv) 
 * Theme: "Community Voices: The Impact of AI on Health Equity in Underserved Communities: Potentials, Concerns, and Challenges"
 * Location: Tompkins Hall Ballroom, Tuskegee University, Tuskegee, AL 36088
