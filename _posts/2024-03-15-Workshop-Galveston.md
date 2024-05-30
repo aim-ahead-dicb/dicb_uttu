@@ -4,7 +4,7 @@ author:  xj
 date: 2024-03-14 10:55:00 +0800
 categories: [Meeting, Collaboration]
 tags: [workshop]
-pin: true
+pin: false
 ---
 ## Data Governance in Healthcare: Innovations, Integration, and Equity
 * Theme: "Exploring the intersection of data governance, AI/ML, and health equity"
