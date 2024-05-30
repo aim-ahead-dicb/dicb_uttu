@@ -4,7 +4,7 @@ author:  ss
 date: 2023-01-13 20:55:00 +0800
 categories: [bioethics, data ethics]
 tags: [paper]
-pin: true
+pin: false
 stylesheets: 
   - /assets/css/carrot2.css
 scripts:
