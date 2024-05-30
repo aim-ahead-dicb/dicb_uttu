@@ -26,11 +26,6 @@
   university: Tuskegee University
   image: /assets/img/headshot/XiaoChang.jpg
   email: xchang@tuskegee.edu
-- name: Dr. Chitra Nayak
-  role: Data Analysis Lead
-  university: Tuskegee University
-  image: /assets/img/headshot/NayakChitra.jpg
-  email: cnayak@tuskegee.edu
 - name: Dr. Honghe Wang
   role: Content Develop Lead
   university: Tuskegee University
@@ -111,3 +106,17 @@
   university: Tuskegee University
   image: /assets/img/headshot/Onyinye Rosemary Asogwa.jpg
   email: ora0002@auburn.edu/onyiekwueme@gmail.com
+- name: Dr. Samuel A. Taylor
+  role: Assistant Professor of Philosophy
+  university: Tuskegee University
+  image: /assets/img/headshot/Samuel.jpg
+  email: staylor@tuskegee.edu
+- name: Anita Paudel
+  university: Tuskegee University
+  image: /assets/img/headshot/anita.jpg
+  email: apaudel1485@tuskegee.edu
+- name: Paramjit Kahai
+  university: Tuskegee University
+  image: /assets/img/headshot/PKahai.jpg
+  email: pkahai@tuskegee.edu
+
