@@ -1,5 +1,5 @@
 ---
-title: Coummunity Voices Luncheon Forum at Tompkins Hall Ballroom, Tuskegee University  
+title: Community Voices Luncheon Forum at Tompkins Hall Ballroom, Tuskegee University  
 author:  dv
 date: 2024-05-30 12:34:00 +0800
 categories: [Meeting, Forum]
@@ -21,20 +21,20 @@ pin: true
 ### 12 Noon – Invocation and Lunch – Rev. Katrina Love, Chair, Ministerial Council
 
 ## 12:30 pm -- 1:30pm Panel Discussion “Listening to Community Voices - The Impact of AI on Health Equity in Underserved Communities: Potentials, Concerns, and Challenges”
-### Moderator: Dr. Vivian Carter, Tuskegee University
-### Timekeeper: Mr. Daryl Rock, President, Southern Christian Leadership Foundation
+#### Moderator: Dr. Vivian Carter, Tuskegee University
+#### Timekeeper: Mr. Daryl Rock, President, Southern Christian Leadership Foundation
 ### Panelists:
-#### Dr. Lucenia Dunn, President C CEO, Tuskegee-Macon County Foundation, Inc.
-#### Ms. Bernice Frazier, Chair, Macon County Health Authority, Tuskegee, AL
-#### Dr. Melissa Williams, Superintendent of Macon County Schools, AL
-#### Mr. Tony Haygood, Mayor, City of Tuskegee, AL
-#### Mr. Guy Trammel, Community Historian, Macon County, AL
-#### Ms. Norma Jackson, Councilwoman, Macon County, AL
-#### Dr. James Washington, Data Science, Morehouse School of Medicine, Atlanta, GA
-#### Mrs. Jan Fountain, Macon County Commissioner, District 4
-#### Mr. Joshua Anthony, Macon County Community Research Advisory Board (CRAB)
-#### Ms. Patricia Guliette, Retired Nurse and Community Advocate for Health Equity
-#### Dr. Deanah Maxwell-Sta`ord, MD; Local Primary Care Physician, Tuskegee Community
+    Dr. Lucenia Dunn, President C CEO, Tuskegee-Macon County Foundation, Inc.
+    Ms. Bernice Frazier, Chair, Macon County Health Authority, Tuskegee, AL
+    Dr. Melissa Williams, Superintendent of Macon County Schools, AL
+    Mr. Tony Haygood, Mayor, City of Tuskegee, AL
+    Mr. Guy Trammel, Community Historian, Macon County, AL
+    Ms. Norma Jackson, Councilwoman, Macon County, AL
+    Dr. James Washington, Data Science, Morehouse School of Medicine, Atlanta, GA
+    Mrs. Jan Fountain, Macon County Commissioner, District 4
+    Mr. Joshua Anthony, Macon County Community Research Advisory Board (CRAB)
+    Ms. Patricia Guliette, Retired Nurse and Community Advocate for Health Equity
+    Dr. Deanah Maxwell-Sta`ord, MD; Local Primary Care Physician, Tuskegee Community
 
 ## 1:30 – 2:00 pm Ǫ & A: Audience
 
