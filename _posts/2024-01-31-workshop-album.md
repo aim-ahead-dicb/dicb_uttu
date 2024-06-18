@@ -1,6 +1,6 @@
 ---
 title: Workshop Album
-author:  xj
+author:  xj , dv
 date: 2023-01-31 20:55:00 +0800
 categories: [Collaboration, Meeting]
 tags: [photo]
@@ -13,7 +13,7 @@ pin: false
  <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
 <div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
   data-link="https://photos.app.goo.gl/4amdgQESsoedaZ4t5"
-  data-title="DICB UTTU"
+  data-title="1st Workshop at UTHealth, Houston"
   data-description="21 new items · Album by Xiaoqian Jiang"
   data-delay="2">
   <object data="https://lh3.googleusercontent.com/pw/ABLVV852M0ZUrs8VW3fIxBfW8uMuzskqNDQVWej_4nVCb12ckUJYjg5VwygP8zrGuSxIdkie7Kozv0ck0JDqMt9SejKX9Oqx7dP7MO51c1RCHc7yK4W0wwc=w1920-h1080"></object>
@@ -39,3 +39,19 @@ pin: false
   <object data="https://lh3.googleusercontent.com/pw/ABLVV85-vRBrB-p6F2dXgYY_MPI-IHLHUK7I2jprgqygNDo5TsSjxPluAPn2FC-VIxF-5xSRwBG7uypMKBbF891aidrd-X4UBE8sgUEfQ3U_AeONhvcWaAw=w1920-h1080"></object>
 </div>
 
+<!-- 
+<iframe width="750" height="563"  src="[https://photos.app.goo.gl/MxDN9WUkmykeRynU6]" frameborder="0" style="border:0" allowfullscreen></iframe>
+ -->
+
+ <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
+<div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
+  data-link="https://photos.app.goo.gl/4amdgQESsoedaZ4t5"
+  data-title="Community Forum at Tuskegee, Alabama"
+  data-description="12 new items · Album by Deepthi Viswaroopan"
+  data-delay="2">
+  <object data="https://photos.google.com/share/AF1QipPiiFoseGCzZim_s65DofOaTpLTSWJu1_Z6fn4wkr9yRS5er66rSPf6P9ykGUnYdQ/photo/AF1QipNLMpwklbr_VarQeGK_DzjMfoEqRhaDVL3XQcfF?key=RldiVGhXaWktUUs0Z0cya203Mm5wOWNmZEdKMXJR"></object>
+  <object data="https://photos.google.com/share/AF1QipPiiFoseGCzZim_s65DofOaTpLTSWJu1_Z6fn4wkr9yRS5er66rSPf6P9ykGUnYdQ/photo/AF1QipN2eUWuFo_wf4aN4sJCFnEZg7YMmehl1wjq8c9D?key=RldiVGhXaWktUUs0Z0cya203Mm5wOWNmZEdKMXJR"></object>
+  <object data="https://photos.google.com/share/AF1QipPiiFoseGCzZim_s65DofOaTpLTSWJu1_Z6fn4wkr9yRS5er66rSPf6P9ykGUnYdQ/photo/AF1QipPL0pOrLcXhypEkuH5TIF5D36DpRitMXd1Jpg5i?key=RldiVGhXaWktUUs0Z0cya203Mm5wOWNmZEdKMXJR"></object>
+  <object data="https://photos.google.com/share/AF1QipPiiFoseGCzZim_s65DofOaTpLTSWJu1_Z6fn4wkr9yRS5er66rSPf6P9ykGUnYdQ/photo/AF1QipNUeGLn3cNfnaPnobzvPTT6rbPulgUUnBjiifSp?key=RldiVGhXaWktUUs0Z0cya203Mm5wOWNmZEdKMXJR"></object>
+  
+</div>
