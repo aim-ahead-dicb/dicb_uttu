@@ -6,7 +6,7 @@ order: 2
 ---
 
 - [CHAI releases draft framework for responsible health AI - Healthcare Dive](https://www.healthcaredive.com/news/coalition-for-health-ai-chai-standards-framework/719970/)
-          [Download the draft framework at] (https://chai.org/wp-content/uploads/2024/06/CHAI-Assurance-Standards-Guide-6-26-2024.pdf)
+          [Download the draft framework at](https://chai.org/wp-content/uploads/2024/06/CHAI-Assurance-Standards-Guide-6-26-2024.pdf)
 - [‘Moving Horizons’: A Responsive and Risk-Based Regulatory Framework for A.I. - from India](https://www.orfonline.org/research/moving-horizons-a-responsive-and-risk-based-regulatory-framework-for-a-i)
 - [Defining AI Ethics for the Future](https://futuristspeaker.com/futurist-thomas-frey-insights/defining-ai-ethics-for-the-future/)
 - [A governance model for the application of AI in health care](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7647243/)
