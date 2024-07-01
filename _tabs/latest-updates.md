@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-layout: magazine
+layout: page
 icon: fas  fa-list-alt
 order: 2
 ---
