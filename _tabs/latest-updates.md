@@ -4,6 +4,9 @@ layout: page
 icon: fas  fa-list-alt
 order: 2
 ---
+
+- [What the Human Genome Project can teach us about channeling a revolutionary technology for public benefit—and why nuclear weapons are a counter-productive analogy](https://ssir.org/articles/entry/human-genome-project-artificial-intelligence)
+- [NIH director Dr. Monica Bertagnolli mentions AIM AHEAD in her recent Science op-ed “Connecting lab, clinic, and community"](https://www.science.org/doi/10.1126/science.adq2140)
 - [How I’m using AI tools to help universities maximize research impacts](https://www.nature.com/articles/d41586-024-02081-6)
 - [CHAI releases draft framework for responsible health AI - Healthcare Dive](https://www.healthcaredive.com/news/coalition-for-health-ai-chai-standards-framework/719970/)
                            [Download the draft framework](https://chai.org/wp-content/uploads/2024/06/CHAI-Assurance-Standards-Guide-6-26-2024.pdf)
