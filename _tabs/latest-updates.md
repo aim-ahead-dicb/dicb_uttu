@@ -6,7 +6,7 @@ order: 2
 ---
 
 <div style="text-align: center;">
-  <img src="{{ '/assets/images/joshua-sortino-LqKhnDzSF-8-unsplash.jpg' | relative_url }}" alt="Header Image" style="width: 100%; height: auto;"/>
+  <img src="{{ '/assets/img/joshua-sortino-LqKhnDzSF-8-unsplash.jpg' | relative_url }}" alt="Header Image" style="width: 100%; height: auto;"/>
 </div>
 
 - [What the Human Genome Project can teach us about channeling a revolutionary technology for public benefit—and why nuclear weapons are a counter-productive analogy](https://ssir.org/articles/entry/human-genome-project-artificial-intelligence)
