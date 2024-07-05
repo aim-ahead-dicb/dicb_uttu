@@ -5,6 +5,10 @@ icon: fas  fa-list-alt
 order: 2
 ---
 
+<div style="text-align: center;">
+  <img src="{{ '/assets/images/joshua-sortino-LqKhnDzSF-8-unsplash.jpg' | relative_url }}" alt="Header Image" style="width: 100%; height: auto;"/>
+</div>
+
 - [What the Human Genome Project can teach us about channeling a revolutionary technology for public benefit—and why nuclear weapons are a counter-productive analogy](https://ssir.org/articles/entry/human-genome-project-artificial-intelligence)
 - [NIH director Dr. Monica Bertagnolli mentions AIM AHEAD in her recent Science op-ed “Connecting lab, clinic, and community"](https://www.science.org/doi/10.1126/science.adq2140)
 - [How I’m using AI tools to help universities maximize research impacts](https://www.nature.com/articles/d41586-024-02081-6)
