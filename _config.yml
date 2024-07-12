@@ -77,7 +77,7 @@ theme_mode: # [light|dark]
 img_cdn: "https://aim-ahead-dicb.github.io/dicb_uttu"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/assets/img/TU_UT logos.jpg"
+avatar: "/assets/img/AIM-AHEAD logo.jpg"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
