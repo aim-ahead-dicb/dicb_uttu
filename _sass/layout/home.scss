@@ -188,7 +188,10 @@
   } /* .pagination */
 }
 
-/* Styles for the content wrapper and layout */
+/* _sass/layout/home.scss */
+
+/* Existing styles... */
+
 .content-wrapper {
     display: flex;
     justify-content: space-between;
@@ -201,6 +204,26 @@
 
 .sidebar {
     width: 300px; /* Adjust width as needed */
+    display: flex;
+    flex-direction: column;
+}
+
+/* Styles for the trending tags */
+.trending-tags {
+    margin-bottom: 20px;
+}
+
+.tags {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.tag {
+    background-color: #f1f1f1;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin: 5px;
+    font-size: 0.9em;
 }
 
 /* Styles for the upcoming events box */
