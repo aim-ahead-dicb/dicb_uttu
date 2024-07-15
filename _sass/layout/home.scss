@@ -190,74 +190,54 @@
 
 /* Styles for the content wrapper and layout */
 .content-wrapper {
-  display: flex;
-  justify-content: space-between;
+    display: flex;
+    justify-content: space-between;
 }
 
 .main-content {
-  flex: 1;
-  padding-right: 20px; /* Adjust as needed */
+    flex: 1;
+    padding-right: 20px; /* Adjust as needed */
 }
 
 .sidebar {
-  width: 300px; /* Adjust width as needed */
-  display: flex;
-  flex-direction: column;
-}
-
-/* Styles for the trending tags */
-.trending-tags {
-  margin-bottom: 20px;
-}
-
-.tags {
-  display: flex;
-  flex-wrap: wrap;
-}
-
-.tag {
-  background-color: #f1f1f1;
-  border-radius: 5px;
-  padding: 5px 10px;
-  margin: 5px;
-  font-size: 0.9em;
+    width: 300px; /* Adjust width as needed */
 }
 
 /* Styles for the upcoming events box */
 .events-box {
-  padding: 20px;
-  border: 1px solid #ccc; /* Border color */
-  border-radius: 10px; /* Rounded corners */
-  background-color: #f9f9f9; /* Background color */
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    padding: 20px;
+    border: 1px solid #ccc; /* Border color */
+    border-radius: 10px; /* Rounded corners */
+    background-color: #f9f9f9; /* Background color */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
 }
 
 .events-box h2 {
-  text-align: center;
-  color: #333; /* Heading color */
+    text-align: center;
+    color: #333; /* Heading color */
 }
 
 .events-box ul {
-  list-style-type: none;
-  padding: 0;
+    list-style-type: none;
+    padding: 0;
 }
 
 .events-box li {
-  display: flex;
-  justify-content: space-between;
-  padding: 10px 0;
-  border-bottom: 1px solid #ddd; /* Line between events */
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0;
+    border-bottom: 1px solid #ddd; /* Line between events */
 }
 
 .events-box li:last-child {
-  border-bottom: none; /* Remove border from last item */
+    border-bottom: none; /* Remove border from last item */
 }
 
 .event-date {
-  color: #666; /* Date color */
+    color: #666; /* Date color */
 }
 
 .event-name {
-  color: #000; /* Event name color */
-  font-weight: bold;
+    color: #000; /* Event name color */
+    font-weight: bold;
 }
