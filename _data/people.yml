@@ -86,11 +86,6 @@
   university: Tuskegee University
   image: /assets/img/headshot/TabithaPiner.jpg
   email: tpiner@tuskegee.edu
-- name: Zahin Fairuza
-  role: Graduate Research, Computer Science
-  university: Tuskegee University
-  image: /assets/img/headshot/ZahinFairuza.jpg
-  email: zfairuza9668@tuskegee.edu
 - name: Dr. Dilip Reddy Gunturu
   role: Biomedical Data and AI Ethics Lead
   university: Tuskegee University
@@ -105,18 +100,20 @@
   role: Program Manager
   university: Tuskegee University
   image: /assets/img/headshot/Onyinye Rosemary Asogwa.jpg
-  email: ora0002@auburn.edu/onyiekwueme@gmail.com
+  email: rasogwa@tuskegee.edu
 - name: Dr. Samuel A. Taylor
   role: Assistant Professor of Philosophy
   university: Tuskegee University
   image: /assets/img/headshot/Samuel.jpeg
   email: staylor@tuskegee.edu
-- name: Anita Paudel
-  university: Tuskegee University
-  image: /assets/img/headshot/anita.jpg
-  email: apaudel1485@tuskegee.edu
 - name: Paramjit Kahai
+  role: 
   university: Tuskegee University
   image: /assets/img/headshot/PKahai.jpg
   email: pkahai@tuskegee.edu
+- name: Dewan Fahim Noor
+  role: Machine Learning & Deep Learning Lead
+  university: Tuskegee University
+  image: /assets/img/headshot/Dewan_Noor_photo.jpg
+  email: dnoor@tuskegee.edu
 
