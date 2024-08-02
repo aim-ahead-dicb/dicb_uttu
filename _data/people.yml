@@ -107,7 +107,7 @@
   image: /assets/img/headshot/Samuel.jpeg
   email: staylor@tuskegee.edu
 - name: Paramjit Kahai
-  role: 
+  role: Information Systems Management
   university: Tuskegee University
   image: /assets/img/headshot/PKahai.jpg
   email: pkahai@tuskegee.edu
@@ -116,4 +116,13 @@
   university: Tuskegee University
   image: /assets/img/headshot/Dewan_Noor_photo.jpg
   email: dnoor@tuskegee.edu
-
+- name: Kushagra
+  role: AI/ML Research Lead
+  university: Tuskegee University
+  image: /assets/img/headshot/K_Kushagra.png
+  email: kkushagra@tuskegee.edu
+- name: Xiangning Chen
+  role: Project Manager
+  university: Tuskegee University
+  image: /assets/img/headshot/X_Chen.jpg
+  email: xiangning.chen@uth.tmc.edu
