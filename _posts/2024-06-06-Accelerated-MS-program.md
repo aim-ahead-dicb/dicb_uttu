@@ -25,3 +25,10 @@ pin: true
               Tuskegee University  
               334-725-2334 | cprakash@tuskegee.edu
 
+#### Some glimpses of UTH Houston team to Tuskegee University:
+![IMG_4036](https://github.com/user-attachments/assets/e877d9e7-48ab-44cf-93d6-a7281421a9cf)
+![IMG_4041](https://github.com/user-attachments/assets/926a4214-e692-4a53-bae4-2d89d6b2bcff)
+![IMG_4035](https://github.com/user-attachments/assets/2d549434-f628-441d-a310-4b62a4ace37e)
+![IMG_4031](https://github.com/user-attachments/assets/2ba0e003-8125-4c27-bfac-ac9fb62519c5)
+![IMG_4027](https://github.com/user-attachments/assets/c2ca1ef5-de9b-4fef-a1d4-fa8059a178a9)
+![IMG_4022](https://github.com/user-attachments/assets/44cf526a-0b0b-41f3-b091-1d19f111de14)
